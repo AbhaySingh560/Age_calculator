@@ -19,7 +19,7 @@ To run this project locally, you'll need a basic web browser.
 
 ### Installation
 1. Clone the repository:
-   git clone https://github.com/yourusername/age-calculator.git
+   git clone https://github.com/AbhaySingh560/Age_calculator
 2. Navigate to the project directory:
   cd age_calculator
 3. Open index.html in your web browser to start using the age calculator.
